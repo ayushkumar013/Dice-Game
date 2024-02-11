@@ -1,8 +1,27 @@
-# React + Vite
+# Dice Gme-react-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Solo Project
+ This project is set up with Vite + React. 
+ -Used Tailwind CSS for styling.
 
-Currently, two official plugins are available:
+## Install
+ npm i
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## To Run App
+ npm run dev
+
+### How Game Works:
+- In this game first we will get a landing page where we will hit start button.
+- Now we will have to select a number from top right and roll the dice.
+- If we'll get the game no. than the score will be increased by that number or if not same than it will be deducted.
+- We are also having a rule book in game.
+  
+#Landing Page
+![DD](https://github.com/ayushkumar013/Dice-Game/assets/145747837/5effec4d-20eb-4fc3-8e66-b0aa8e0a60e2)
+
+#Rule Book
+![Dr](https://github.com/ayushkumar013/Dice-Game/assets/145747837/a5ebeebd-0c49-4627-95b9-ec2e11442ead)
+
+#Score Increased
+![DS](https://github.com/ayushkumar013/Dice-Game/assets/145747837/090f97ba-51b6-4259-82b4-8497f713384a)
+
