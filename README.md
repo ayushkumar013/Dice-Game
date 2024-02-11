@@ -1,4 +1,4 @@
-# Dice Gme-react-app
+# Dice Game-react-app
 
 ## Solo Project
  This project is set up with Vite + React. 
